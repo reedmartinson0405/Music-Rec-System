@@ -46,3 +46,16 @@ Our model posted a Train F1 and Test F1 of .66 and a precision of .60. Having a 
 # Future Analysis 
 
 For future work, I will work on improving the accuracy score and decreasing the number of false negatives so that the recommendation system does not miss out on popular songs. 
+
+```
+Repository Structure:
+
+├── images                                     	   # images used in project
+├── notebooks                                	   # folder containing code/
+Explore_notebook
+├── .gitignore                               	   # ignore files
+├── Cosine_Similarity_Notebook.ipynd
+├── Predicting_Popularity.ipynd                 	   # final code/project notebook
+├── README.md                                	   # top-level README for reviewers of this project
+└── Music_Rec_pres.pdf           	   # non-technical presentation slides
+```
