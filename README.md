@@ -47,6 +47,10 @@ Our model posted a Train F1 and Test F1 of .66 and a precision of .60. Having a 
 
 For future work, I will work on improving the accuracy score and decreasing the number of false negatives so that the recommendation system does not miss out on popular songs. 
 
+# Links to Presentation and data source
+
+Link to the dataset: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv
+Link to presentation: https://docs.google.com/presentation/d/1RGNYsavaa0TQTJbpx6jDwxME5o4Omoe_oV1XrZXq-SQ/edit?usp=sharing
 ```
 Repository Structure:
 
